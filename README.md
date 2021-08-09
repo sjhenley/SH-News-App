@@ -6,7 +6,7 @@
 3. Install React Navigation
 
 ```
-npm install @react-navigation/native react-native-screens react-native-safe-area-context @react/navigation/native-stack
+npm install @react-navigation/native react-native-screens react-native-safe-area-context @react/navigation/native-stack expo-linking
 npm install --save-dev @types/react-navigation
 ```
 
