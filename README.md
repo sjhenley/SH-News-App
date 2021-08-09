@@ -23,16 +23,16 @@
 
 ```JSON
 "plugins": [
-        "react",
-        "react-native",
-        "@typescript-eslint"
-    ],
+  "react",
+  "react-native",
+  "@typescript-eslint"
+],
 ```
 
 5. Add custom rules
 
 ```JSON
 "rules": {
-  ...
-  }
+
+}
 ```
