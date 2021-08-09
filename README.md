@@ -3,6 +3,12 @@
 1. Install Expo using `npm install --global expo-cli`
 2. Create a new React Native Project in the current directory using `expo init .`
     - Template: I chose `blank (TypeScript)`
+3. Install React Navigation
+
+```
+npm install @react-navigation/native react-native-screens react-native-safe-area-context @react/navigation/native-stack
+npm install --save-dev @types/react-navigation
+```
 
 ## (Optional) Configuring ESLint
 1. Install ESLint using `npm install --save-dev eslint`
