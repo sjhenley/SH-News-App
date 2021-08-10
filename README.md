@@ -1,4 +1,8 @@
-# Step to create the React Native Project
+# Instructions for Running
+1. `npm install`
+2. `npm run start`
+
+# Steps to create the React Native Project
 
 1. Install Expo using `npm install --global expo-cli`
 2. Create a new React Native Project in the current directory using `expo init .`
