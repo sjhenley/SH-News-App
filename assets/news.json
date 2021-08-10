@@ -71,19 +71,6 @@
       {
           "source": {
               "id": null,
-              "name": "Motley Fool"
-          },
-          "author": "Motley Fool",
-          "title": "How Riot Blockchain Shares Fell 12.5% Last Month Despite Rising Bitcoin Prices",
-          "description": "This Bitcoin miner amplified Bitcoin's price swings as usual, with a bit more emphasis on the drop.",
-          "url": "https://www.fool.com/investing/2021/08/09/how-riot-blockchain-shares-fell-125-last-month-des/",
-          "urlToImage": "https://g.foolcdn.com/editorial/images/638434/bitcoin-symbol-on-red-question-mark.jpg",
-          "publishedAt": "2021-08-09T21:25:00Z",
-          "content": "What happened\r\nShares of Riot Blockchain (NASDAQ: RIOT) fell 12.5% in July 2021, according to data from S&amp;P Global Market Intelligence. The Bitcoin miner's negative move ran counter to a 16.6% in… [+2520 chars]"
-      },
-      {
-          "source": {
-              "id": null,
               "name": "Investor's Business Daily"
           },
           "author": "Investor's Business Daily",
@@ -274,7 +261,307 @@
           "urlToImage": "https://www.cnet.com/a/img/FNR9szLQpgg_ZWwrAVGY_paWhOc=/1200x630/2020/06/18/e0901eba-4246-4289-85a3-7862705c4371/ogi-cyber.jpg",
           "publishedAt": "2021-08-09T19:15:00Z",
           "content": "Are we surprised? No.\r\nTesla\r\nAfter debuting the Tesla Cybertruck back in 2019, the company promised we'd see the electric truck start rolling off an assembly line in late 2021. If you follow Tesla, … [+1977 chars]"
-      }
-  ]
+      },
+      {
+        
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Cara Lombardo, Dana Cimilluca",
+        "title": "Canadian Pacific Plans New, Higher Bid for Kansas City Southern - The Wall Street Journal",
+        "description": "Move would reignite takeover battle with Canadian National Railway for the U.S. railroad",
+        "url": "https://www.wsj.com/articles/canadian-pacific-plans-new-higher-bid-for-kansas-city-southern-11628539276",
+        "urlToImage": "https://images.wsj.net/im-382770/social",
+        "publishedAt": "2021-08-09T22:13:00Z",
+        "content": "Canadian Pacific Railway Ltd. is planning to make a new, increased offer for Kansas City Southern , according to people familiar with the matter, reigniting a takeover battle with Canadian National R… [+1332 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sarah Whitten",
+        "title": "AMC reaches deal with Warner Bros. for 45 days theatrical exclusivity in 2022 - CNBC",
+        "description": "AMC Entertainment has reached an agreement with Warner Bros. to showcase all of the studio's 2022 slate in theaters for 45 days.",
+        "url": "https://www.cnbc.com/2021/08/09/amc-reaches-deal-with-warner-bros-for-45-days-theatrical-exclusivity.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106850109-1614971556103-gettyimages-1231535869-AFP_94D4PJ.jpeg?v=1614971638",
+        "publishedAt": "2021-08-09T22:01:11Z",
+        "content": "AMC Entertainment has reached an agreement with Warner Bros. to showcase all of the studio's 2022 slate in theaters for 45 days.\r\nThe world's largest theater chain had balked at Warner Bros.' decisio… [+2038 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Shawn Tully",
+        "title": "Tesla’s Bitcoin bet is back in the black—big time - Fortune",
+        "description": "A amazing reversal flipping Tesla's holdings from red to black just happened again.",
+        "url": "https://fortune.com/2021/08/09/tesla-bitcoin-bet-elon-musk-crypto/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1233956386.jpg?resize=1200,600",
+        "publishedAt": "2021-08-09T21:18:18Z",
+        "content": "Skip to Content"
+    },
+    
+    {
+        
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Catie Keck",
+        "title": "Sony completes acquisition of Crunchyroll from AT&T - The Verge",
+        "description": "Following the news that Sony was set to buy AT&T’s anime streaming service Crunchyroll, the completed acquisition brings together two powerhouse anime streaming services. Sony’s deal to acquire Crunchyroll was first announced in December 2020 and is valued at…",
+        "url": "https://www.theverge.com/2021/8/9/22617356/sony-crunchyroll-att-funimation-acquisition",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/git_k6Aemx1QmQ8h2s9pWDYrFZk=/0x21:1127x611/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19743194/CROriginals_16x9.png",
+        "publishedAt": "2021-08-09T21:10:06Z",
+        "content": "Funimation and Crunchyroll are now one business\r\nSony officially owns AT&amp;Ts Crunchyroll.\r\nSonys deal to acquire Crunchyroll was first announced in December 2020 and sees Crunchyroll join Funimati… [+1141 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Pia Singh",
+        "title": "Dr. Scott Gottlieb says the Covid delta surge may be the ‘final wave’ in U.S. - CNBC",
+        "description": "Dr. Scott Gottlieb told CNBC on Monday the current surge in delta cases may be the ‘final wave’ of Covid infections in the U.S.",
+        "url": "https://www.cnbc.com/2021/08/09/dr-scott-gottlieb-says-the-covid-delta-surge-may-be-the-final-wave-in-us.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/105846846-1618323838949-105846846-1555007976919img_8994.jpg?v=1618323850",
+        "publishedAt": "2021-08-09T20:56:44Z",
+        "content": "Dr. Scott Gottlieb told CNBC on Monday the current surge in Covid infections caused by the more contagious delta variant may be the \"final wave\" of the virus in the United States.\r\n\"I don't think Cov… [+3383 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+        "title": "Amazon and GoPro file joint lawsuit against Chinese counterfeiters - Engadget",
+        "description": "Amazon and GoPro have filed a joint lawsuit against a group of Chinese nationals and businesses they allege sold counterfeit GroPro products on Amazon..",
+        "url": "https://www.engadget.com/amazon-gopro-lawsuit-chinese-counterfeiters-204605084.html",
+        "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/5ef45470-f951-11eb-9fef-70d495d96acd",
+        "publishedAt": "2021-08-09T20:48:45Z",
+        "content": "Amazon and GoPro have filed a joint lawsuit against a group of Chinese nationals and businesses they allege sold counterfeit GroPro products on Amazon. In newly unsealed court documents, the two comp… [+1790 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "Electrek"
+        },
+        "author": null,
+        "title": "Tesla makes Hepa filter with ‘bioweapon defense mode’ standard on Model Y electric SUV - Electrek.co",
+        "description": "Tesla has made its Hepa filter with “bioweapon defense mode” standard on new Model Y electric SUVs produced at Fremont Factory. With the Model X and later the Model S, Tesla has started to put massive Hepa-rated air filters inside its vehicles. The idea is fo…",
+        "url": "https://electrek.co/2021/08/09/tesla-hepa-filter-bioweapon-defense-mode-standard-model-y-electric-suv/",
+        "urlToImage": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Model-Y-Blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2021-08-09T20:21:00Z",
+        "content": "Tesla has made its Hepa filter with “bioweapon defense mode” standard on new Model Y electric SUVs produced at Fremont Factory.\r\nWith the Model X and later the Model S, Tesla has started to put massi… [+1844 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "3D Systems Inc.",
+        "title": "3D Systems Reports Second Quarter 2021 Financial Results - Yahoo Finance",
+        "description": "ROCK HILL, S.C., Aug. 09, 2021 (GLOBE NEWSWIRE) -- 3D Systems Corporation (NYSE:DDD) announced today its financial results for the second quarter ended June ...",
+        "url": "https://finance.yahoo.com/news/3d-systems-reports-second-quarter-202000989.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0EX3qXeXMnc2FJynJfQeCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0zMTE-/https://s.yimg.com/uu/api/res/1.2/pK5oyJDAUpjE51QF9gX3mA--~B/aD00MTc7dz0yNjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/0234f16bdef4bc4fdd278138c3cfc50a",
+        "publishedAt": "2021-08-09T20:20:00Z",
+        "content": "ROCK HILL, S.C., Aug. 09, 2021 (GLOBE NEWSWIRE) -- 3D Systems Corporation (NYSE:DDD) announced today its financial results for the second quarter ended June 30, 2021.\r\nSecond Quarter Financial and Op… [+46339 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "The Cut"
+        },
+        "author": "Devine Blacksher",
+        "title": "Here’s Our First Look at Target’s Next Designer Collaboration - The Cut",
+        "description": "And you’re going to fall head over heels for it.",
+        "url": "http://www.thecut.com/2021/08/finally-a-rachel-comey-x-target-collaboration.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/587/f64/f9ac488d4202175ef2d8264c529c8a4157-TargetxFallDesignerCollection.1x.rsocial.w1200.jpg",
+        "publishedAt": "2021-08-09T20:02:41Z",
+        "content": "Today, Target announced its latest designer collection for fall, and the lineup is a good one. The limited-edition Fall Designer Collection will feature designs from Rachel Comey, Victor Glemaud, San… [+1218 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Scottie Andrew, CNN",
+        "title": "'Vaccine passports' are taking off. How to prove your Covid-19 vaccination status on your phone - CNN",
+        "description": "Vaccination against Covid-19 is increasingly becoming a ticket of entry into restaurants, gyms and indoor performances in the US. Here's how to record your vaccination record on your phone so your small, CDC-issued vaccination card can stay safe at home.",
+        "url": "https://www.cnn.com/2021/08/09/us/how-to-show-vaccination-proof-on-phone-wellness-trnd/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210809094243-01-covid-vaccine-card-file-restricted-super-tease.jpg",
+        "publishedAt": "2021-08-09T19:53:00Z",
+        "content": "(CNN)Vaccination against Covid-19 is increasingly becoming a ticket of entry into restaurants, gyms and indoor performances -- or all of the above, if you're a New York City resident. \r\nRather than m… [+4442 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Martha C. White",
+        "title": "The U.S. now has more job openings than any time in history - NBC News",
+        "description": "The U.S. now has more job openings than any time in history — yet 8.7 million people are still looking for work.",
+        "url": "https://www.nbcnews.com/business/business-news/u-s-now-has-more-job-openings-any-time-history-n1276367",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_32/3497805/210809-job-openings-al-1255.jpg",
+        "publishedAt": "2021-08-09T19:39:40Z",
+        "content": "In another drastic reminder of just how fundamentally the pandemic has distorted the labor market, the number of open jobs soared to a record 10.1 million in June, according to the latest monthly dat… [+6371 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Allison Johnson",
+        "title": "Dish’s 5G network will launch at the end of September in beta - The Verge",
+        "description": "Dish Network says it will deploy 5G wireless service in Las Vegas starting at the end of September. It will launch first in beta, and the program is expected to last at least 90 days before it’s ready to go fully public.",
+        "url": "https://www.theverge.com/2021/8/9/22617029/dish-network-5g-las-vegas-wireless-service-beta",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/ViVQuBhEU09OnEsL4tpNLy5D4zc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21696755/acastro_200804_1777_dish_0001.0.jpg",
+        "publishedAt": "2021-08-09T19:14:57Z",
+        "content": "The 90-day beta is the first step in Dishs much-anticipated network deployment\r\nDish aims to cover 70% of the US population by mid-2023 with wireless service.\r\nIllustration by Alex Castro / The Verge… [+1750 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Will Feuer",
+        "title": "Domino's takes on food-delivery rivals with $50M free food giveaway - New York Post ",
+        "description": "Domino’s Pizza is taking on food delivery apps that it says charge unexpected fees — by giving away $50 million worth of free food to random customers, the company announced Monday.",
+        "url": "https://nypost.com/2021/08/09/dominos-offering-50m-free-food-giveaway/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/dominos-049.jpg?quality=90&strip=all&w=1200",
+        "publishedAt": "2021-08-09T18:23:00Z",
+        "content": "Domino’s Pizza is taking on food delivery apps that it says charge unexpected fees — by giving away $50 million worth of free food to random customers, the company announced Monday. \r\nThe Ann Arbor, … [+2354 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Taylor Locke",
+        "title": "From the Senate's infrastructure bill to Ethereum's major upgrade: 5 key things that happened in crypto this past week - CNBC",
+        "description": "As the Senate continues to debate crypto tax provisions within the $1 trillion infrastructure bill, bitcoin and ether are surging.",
+        "url": "https://www.cnbc.com/2021/08/09/crypto-news-roundup-infrastructure-bill-crypto-tax-ethereum-upgrade.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106803866-1606770816881-gettyimages-917465704-xc1a2361.jpeg?v=1628524920",
+        "publishedAt": "2021-08-09T18:20:14Z",
+        "content": "As the Senate continues to debate crypto tax provisions within the $1 trillion infrastructure bill, bitcoin and ether are surging.\r\nThe price of bitcoin, the largest cryptocurrency by market value, s… [+4572 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "Electrek"
+        },
+        "author": null,
+        "title": "Tesla slashes size of Gigafactory solar array but says it will still grow to be largest in the world - Electrek.co",
+        "description": "Tesla has slashed the targeted size of the planned solar array at Gigafactory Nevada, but the automaker says that it will still grow to become the largest in the world. In 2017, Tesla announced plans for a giant 70 MW rooftop array at Gigafactory Nevada, whic…",
+        "url": "https://electrek.co/2021/08/09/tesla-slashes-size-gigafactory-solar-array-but-says-grow-largest-world/",
+        "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Gigafactory-Nevada-solar-array.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2021-08-09T18:06:00Z",
+        "content": "Tesla has slashed the targeted size of the planned solar array at Gigafactory Nevada, but the automaker says that it will still grow to become the largest in the world.\r\nIn 2017, Tesla announced plan… [+2282 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Aria Bendix",
+        "title": "Health experts share how they're staying safe amid Delta spread in US - Business Insider",
+        "description": "Most experts never stopped wearing masks indoors. Some are avoiding indoor places without good ventilation, but they're not canceling travel plans.",
+        "url": "https://www.businessinsider.com/how-to-avoid-delta-variant-health-experts-advice-2021-8",
+        "urlToImage": "https://i.insider.com/60d731f3df1db80018f3a6bb?width=1200&format=jpeg",
+        "publishedAt": "2021-08-09T17:52:15Z",
+        "content": "Rule No. 1 in the epidemiologist Emily Gurley's house: Don't freak out.\r\nAs the Delta variant drives US COVID-19 cases to their highest levels in nearly six months, Gurley's family hasn't gone back o… [+5876 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "Bitcoin.com"
+        },
+        "author": null,
+        "title": "SEC Fines Poloniex $10 Million for Operating Unregistered Cryptocurrency Exchange – Regulation Bitcoin News - Bitcoin News",
+        "description": "The U.S. Securities and Exchange Commission has charged Poloniex with operating an unregistered cryptocurrency exchange.",
+        "url": "https://news.bitcoin.com/sec-fines-poloniex-10-million-operating-unregistered-cryptocurrency-exchange/",
+        "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2021/08/poloniex.jpg",
+        "publishedAt": "2021-08-09T17:17:43Z",
+        "content": "The U.S. Securities and Exchange Commission (SEC) has charged Poloniex with operating an unregistered cryptocurrency exchange. Poloniex has agreed to a cease-and-desist order and to pay $10.34 millio… [+2101 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "BLUE Stock Plummets On Clinical Hold, Plans To Exit Europe - Investor's Business Daily",
+        "description": "Bluebird Bio said Monday the FDA paused one of its gene therapy studies due to safety concerns, and BLUE stock collapsed.",
+        "url": "https://www.investors.com/news/technology/blue-stock-plummets-on-clinical-hold-plans-to-exit-europe/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/03/Stock-BluebirdBio-01-shut.jpg",
+        "publishedAt": "2021-08-09T17:14:00Z",
+        "content": "Bluebird Bio (BLUE) said Monday the Food and Drug Administration paused one of its gene therapy studies due to safety concerns, and BLUE stock collapsed.\r\nXThe drug isn't approved in the U.S., though… [+2667 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Jenna Romaine",
+        "title": "Shocking video of passenger mutiny over wrongful removal of two Black men from flight | TheHill - The Hill",
+        "description": "\"EasyJet does not discriminate against any individual,” the airline said in a statement.",
+        "url": "https://thehill.com/changing-america/respect/equality/566994-shocking-video-of-passenger-mutiny-over-wrongful-removal-of",
+        "urlToImage": "https://thehill.com/sites/default/files/istock-480543928.jpg",
+        "publishedAt": "2021-08-09T17:09:02Z",
+        "content": "Video caught the moment passengers on an EasyJet flight out of London came together to protest the removal of two Black men from the flight.\r\nThe incident occurred on Thursday as a flight was taxiing… [+2035 chars]"
+    },
+    
+    {
+        
+        "source": {
+            "id": null,
+            "name": "RoadandTrack.com"
+        },
+        "author": "Fred Smith",
+        "title": "Lamborghini Is Bringing Back the Countach Name - RoadandTrack.com",
+        "description": "It is Lamborghini's first real revival of a nameplate ever.",
+        "url": "https://www.roadandtrack.com/news/a37260084/lamborghini-countach-returns/",
+        "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-08-09-at-12-59-54-pm-1628528458.png?crop=1.00xw:0.954xh;0,0&resize=1200:*",
+        "publishedAt": "2021-08-09T17:02:56Z",
+        "content": "Lamborghini posted a trailer on Twitter Monday announcing the upcoming revival of the Countach name for an unannounced car. The 20-second clip shows a montage of Countaches on various bedroom wall po… [+2498 chars]"
+    }
+]
+
 
 }

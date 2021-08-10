@@ -9,9 +9,17 @@ import ContainerStyle from '../styles/ContainerStyle';
 const NewsFeed: React.FC = () => (
   <ScrollView contentContainerStyle={ContainerStyle.container}>
     {
-      NewsArticles.articles.map((article) => (
-        <NewsCard key={article.title} article={article as NewsArticle} />
-      ))
+      NewsArticles.articles.map((article, index) => {
+        if (index < 50) {
+          return (
+            <NewsCard key={article.title} article={article as NewsArticle} />
+          );
+        }
+        return (
+          <>
+          </>
+        );
+      })
     }
   </ScrollView>
 );

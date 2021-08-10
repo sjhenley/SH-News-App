@@ -8,9 +8,11 @@ const NewsCardStyle = StyleSheet.create({
   },
   content: {
     fontSize: 12,
+    padding: 5,
   },
   header: {
     fontSize: 18,
+    padding: 5,
   },
   image: {
     height: 300,
